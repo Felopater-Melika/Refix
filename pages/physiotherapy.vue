@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto px-4">
+  <div class="container mx-auto px-4 py-8">
     <NavBar />
     <div class="mt-8">
       <div class="bg-white shadow-md rounded-lg p-5">
@@ -43,6 +43,7 @@
         </div>
       </div>
     </div>
+    <FooterComponent />
   </div>
 </template>
 

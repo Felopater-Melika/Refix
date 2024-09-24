@@ -1,8 +1,8 @@
 <template>
   <div>
-    <NavBar />
     <div class="min-h-screen">
       <div class="container mx-auto px-4 py-8">
+        <NavBar />
         <!-- Main Content -->
         <div class="bg-white shadow-md rounded-lg p-8">
           <h2 class="text-3xl font-bold mb-6">
@@ -62,6 +62,7 @@
         </div>
       </div>
     </div>
+    <FooterComponent />
   </div>
 </template>
 
