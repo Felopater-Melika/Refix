@@ -1,0 +1,44 @@
+{
+  "header": {
+    "name": "DR. MERNA HABIB",
+    "website": "www.refixchiropractic.com",
+    "email": "Refixchiropractic@gmail.com",
+    "phone": "(561) 444-7082",
+    "address": "321 Datura St, West Palm Beach fl 33401"
+  },
+  "mainContent": {
+    "title": "REFIX CHIROPRACTIC",
+    "description": "Our 4D zero gravity massage chair scans your full body to detect tight muscles, this can be especially beneficial for relieving musculoskeletal pain. Air compression therapy help encourage blood circulation by compressing your forearm, shoulders, calves and feet while applying gentle heat.",
+    "subtitle": "DISCOVER THE WAY TO A PAIN-FREE LIFE WITH OUR ADVANCED CHIROPRACTIC CARE.",
+    "packageIntro": "Our packages are customized to your needs including the following:",
+    "packageItems": [
+      "Detailed orthopedic exam with report of findings",
+      "4D Full body massage",
+      "Physiotherapy (TENs, laser, ultrasound, cupping, scrapping)",
+      "Chiropractic adjustments"
+    ]
+  },
+  "pricingTable": [
+    {
+      "title": "New patient",
+      "price": "$35-30 minutes"
+    },
+    {
+      "title": "Couples",
+      "price": "$80-1 hour session"
+    },
+    {
+      "title": "Mommy and me",
+      "price": "$40- 30 minutes"
+    },
+    {
+      "title": "Advanced Refix",
+      "price": "$70 - 1 hour session"
+    }
+  ],
+  "sections": [
+    {
+      "content": "A 4D massage chair with deep tissue capabilities and air compression technology offers a multitude of benefits for both RELAXATION and THERAPEUTIC purposes. The 4D feature allows for a more customizable and lifelike massage experience, adapting to the user's unique body contours and preferences. Coupled with deep tissue massage functionality, this chair can effectively target and alleviate muscle tension, knots, and chronic pain, promoting improved circulation and flexibility. Additionally, the air compression technology enhances the massage experience by providing gentle compression and decompression movements, aiding in reducing stress, improving lymphatic drainage, and enhancing overall relaxation and well-being."
+    }
+  ]
+}
